@@ -1,0 +1,4 @@
+[submodule "miscfiles/inspiration/MTT"]
+	path = miscfiles/inspiration/MTT
+	url = https://github.com/CodySchrank/MTT
+	branch = master
