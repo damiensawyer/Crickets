@@ -5,3 +5,5 @@ I really liked how he created a MSBuild task which could be dropped into a cspro
 I thought that I'd have a shot at creating a (more robust?) reflection based TypeScript generator as well
 
 Type ```git submodule update --init``` after cloning main repo to pull down this repo. 
+
+I made a [fork](https://github.com/damiensawyer/MTT) of his repo in case his disappears.
